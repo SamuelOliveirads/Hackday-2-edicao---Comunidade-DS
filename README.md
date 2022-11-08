@@ -23,6 +23,8 @@ O objetivo desta competição é desenvolver um modelo de regressão, que com ba
 
 A diretoria comercial da Mobility Cars, está convicta de que a nova tabela de referência será a peça chave para reverter o quadro negativo atual. Com ela, a empresa voltará a atingir as metas de vendas de seminovos estipuladas, retomando sua posição de destaque no mercado.
 
+Detalhes da competição: https://www.kaggle.com/competitions/mobilitycars
+
 # LICENSE
 
 # All Rights Reserved - Comunidade DS 2022
